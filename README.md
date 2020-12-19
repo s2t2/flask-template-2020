@@ -12,7 +12,7 @@ conda activate my-flask-env
 Install package dependencies inside the virtual environment:
 
 ```sh
-pip install -r requirements.txt
+pip install -r requirements.txt # first time only
 ```
 
 ## Usage
